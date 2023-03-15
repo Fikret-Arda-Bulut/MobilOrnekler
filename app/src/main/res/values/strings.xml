@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mobil Uygulama Ders Örnekleri</string>
+
+    <string name="unite1">Ünite - 1 ()</string>
+    <string name="unite2">Ünite - 2 ()</string>
+    <string name="unite3">Ünite - 3 ()</string>
+    <string name="unite4">Ünite - 4 ()</string>
+    <string name="unite5">Ünite - 5 (Gelişmiş Komutlar)</string>
+    <string name="unite6">Ünite - 6 ()</string>
+    <string name="unite7">Ünite - 7 ()</string>
+    <string name="unite8">Ünite - 8 ()</string>
+    <string name="unite9">Ünite - 9 ()</string>
+
+
+    <string name="u5_uyg1">Uygulama - 1 \n()</string>
+    <string name="u5_uyg2">Uygulama - 2 \n()</string>
+    <string name="u5_uyg3">Uygulama - 3 \n()</string>
+    <string name="u5_uyg4">Uygulama - 4 \n()</string>
+    <string name="u5_uyg5">Uygulama - 5 \n(Sınıflar)</string>
+    <string name="u5_uyg6">Uygulama - 6 \n()</string>
+    <string name="u5_uyg7">Uygulama - 7 \n()</string>
+    <string name="u5_uyg8">Uygulama - 8 \n()</string>
+    <string name="u5_uyg9">Uygulama - 9 \n()</string>
+    <string name="u5_uyg10">Uygulama - 10 \n()</string>
+    <string name="u5_uyg11">Uygulama - 11 \n()</string>
+    <string name="u5_uyg12">Uygulama - 12 \n()</string>
+    <string name="u5_uyg13">Uygulama - 13 \n()</string>
+    <string name="u5_ss_173">Sıra Sizde 173.Sayfa \n(Metodlarda Aşırı Yükleme)</string>
+
+    <string name="btnHesapla">Hesapla</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/Unite1.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/u5_uyg5.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/unite1.xml" value="0.13868003341687551" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulama/app/src/main/res/layout/unite5.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

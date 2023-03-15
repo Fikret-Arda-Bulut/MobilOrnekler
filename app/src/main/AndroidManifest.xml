@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mobiluygulama">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobilUygulama"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Unite1" android:label="@string/unite1"></activity>
+        <activity android:name=".Unite2" android:label="@string/unite2"></activity>
+        <activity android:name=".Unite3" android:label="@string/unite3"></activity>
+        <activity android:name=".Unite4" android:label="@string/unite4"></activity>
+        <activity android:name=".Unite5" android:label="@string/unite5"></activity>
+        <activity android:name=".Unite6" android:label="@string/unite6"></activity>
+        <activity android:name=".Unite7" android:label="@string/unite7"></activity>
+        <activity android:name=".Unite8" android:label="@string/unite8"></activity>
+        <activity android:name=".Unite9" android:label="@string/unite9"></activity>
+
+
+        <activity android:name=".Unite5" android:label="@string/unite5"></activity>
+
+
+
+        <!-- ÜNİTE 5 UYGULAMALARI -->
+        <activity android:name=".unite5.uyg1.Uyg1" android:label="@string/u5_uyg1"></activity>
+        <activity android:name=".unite5.uyg2.Uyg2" android:label="@string/u5_uyg2"></activity>
+        <activity android:name=".unite5.uyg3.Uyg3" android:label="@string/u5_uyg3"></activity>
+        <activity android:name=".unite5.uyg4.Uyg4" android:label="@string/u5_uyg4"></activity>
+        <activity android:name=".unite5.uyg5.Uyg5" android:label="@string/u5_uyg5"></activity>
+        <activity android:name=".unite5.uyg6.Uyg6" android:label="@string/u5_uyg6"></activity>
+        <activity android:name=".unite5.uyg7.Uyg7" android:label="@string/u5_uyg7"></activity>
+        <activity android:name=".unite5.uyg8.Uyg8" android:label="@string/u5_uyg8"></activity>
+        <activity android:name=".unite5.uyg9.Uyg9" android:label="@string/u5_uyg9"></activity>
+        <activity android:name=".unite5.uyg10.Uyg10" android:label="@string/u5_uyg10"></activity>
+        <activity android:name=".unite5.uyg11.Uyg11" android:label="@string/u5_uyg11"></activity>
+        <activity android:name=".unite5.uyg12.Uyg12" android:label="@string/u5_uyg12"></activity>
+        <activity android:name=".unite5.uyg13.Uyg13" android:label="@string/u5_uyg13"></activity>
+
+    </application>
+
+</manifest>
