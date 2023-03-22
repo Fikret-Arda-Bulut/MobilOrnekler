@@ -9,7 +9,8 @@ import android.widget.TextView;
 import com.example.mobiluygulama.R;
 public class Uyg11 extends AppCompatActivity {
     public Integer[] notlar = new Integer[6];
-    public int indis =0;
+    public int indis = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,10 +21,10 @@ public class Uyg11 extends AppCompatActivity {
         Button buttonEkle = findViewById(R.id.buttonEkle);
         Button buttonSifirla = findViewById(R.id.buttonSifirla);
         buttonEkle.setOnClickListener(view -> {
-            if (indis <6){
+            if (indis < 6) {
                 int sayi;
                 sayi = Integer.parseInt(editTextSayi.getText().toString());
-                notlar[indis]=sayi;
+                notlar[indis] = sayi;
                 indis++;
                 textViewIndis.setText("İndis: " + Integer.toString(indis));
                 int toplam = 0;
@@ -32,15 +33,15 @@ public class Uyg11 extends AppCompatActivity {
                 }
                 textViewToplam.setText("Toplam: " + Integer.toString(toplam));
                 editTextSayi.getText().clear();
-            }
-            else{
+            } else {
                 textViewIndis.setText("Dizi dolu");
             }
         });
         buttonSifirla.setOnClickListener(view -> {
-            indis=0;
+            indis = 0;
             textViewIndis.setText("İndis: 0");
             textViewToplam.setText("Toplam: 0");
             notlar = new Integer[6];
         });
     }
+}
