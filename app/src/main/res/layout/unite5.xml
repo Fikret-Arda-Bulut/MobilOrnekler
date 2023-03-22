@@ -82,6 +82,48 @@
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg7"
                         android:text="@string/u5_uyg7" />
+
+                    <Button
+                        android:id="@+id/btnUyg8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg8"
+                        android:text="@string/u5_uyg8" />
+
+                    <Button
+                        android:id="@+id/btnUyg9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg9"
+                        android:text="@string/u5_uyg9" />
+
+                    <Button
+                        android:id="@+id/btnUyg10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg10"
+                        android:text="@string/u5_uyg10" />
+
+                    <Button
+                        android:id="@+id/btnUyg11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg11"
+                        android:text="@string/u5_uyg11" />
+
+                    <Button
+                        android:id="@+id/btnUyg12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg12"
+                        android:text="@string/u5_uyg12" />
+
+                    <Button
+                        android:id="@+id/btnUyg13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:onClick="btnUyg13"
+                        android:text="@string/u5_uyg13" />
                 </LinearLayout>
             </ScrollView>
         </LinearLayout>
