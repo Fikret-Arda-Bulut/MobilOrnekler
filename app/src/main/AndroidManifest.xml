@@ -32,11 +32,6 @@
         <activity android:name=".Unite8" android:label="@string/unite8"></activity>
         <activity android:name=".Unite9" android:label="@string/unite9"></activity>
 
-
-        <activity android:name=".Unite5" android:label="@string/unite5"></activity>
-
-
-
         <!-- ÜNİTE 5 UYGULAMALARI -->
         <activity android:name=".unite5.uyg1.Uyg1" android:label="@string/u5_uyg1"></activity>
         <activity android:name=".unite5.uyg2.Uyg2" android:label="@string/u5_uyg2"></activity>
