@@ -11,7 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="41dp"
         android:text="Kullanıcı Adı"
-        app:fontFamily="casual"
+        android:textSize="30dp"
+        app:fontFamily="cursive"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

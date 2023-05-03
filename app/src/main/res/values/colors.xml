@@ -8,4 +8,15 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FFFF7F00</color>
+
+
+    <color name="u1">#610023</color>
+    <color name="u2">#13BBAF</color>
+    <color name="u3">#31668A</color>
+    <color name="u4">#C27F79</color>
+    <color name="u5">#ff1654</color>
+    <color name="u6">#0F9FA1</color>
+    <color name="u7">#1F61BF</color>
+    <color name="u8">#7ADFD4</color>
+    <color name="u9">#67A60D</color>
 </resources>

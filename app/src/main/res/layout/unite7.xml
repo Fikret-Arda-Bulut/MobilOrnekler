@@ -39,91 +39,91 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg1"
-                        android:text="@string/u5_uyg1" />
+                        android:text="@string/u7_uyg1" />
 
                     <Button
                         android:id="@+id/btnUyg2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg2"
-                        android:text="@string/u5_uyg2" />
+                        android:text="@string/u7_uyg2" />
 
                     <Button
                         android:id="@+id/btnUyg3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg3"
-                        android:text="@string/u5_uyg3" />
+                        android:text="@string/u7_uyg3" />
 
                     <Button
                         android:id="@+id/btnUyg4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg4"
-                        android:text="@string/u5_uyg4" />
+                        android:text="@string/u7_uyg4" />
 
                     <Button
                         android:id="@+id/btnUyg5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg5"
-                        android:text="@string/u5_uyg5" />
+                        android:text="@string/u7_uyg5" />
 
                     <Button
                         android:id="@+id/btnUyg6"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg6"
-                        android:text="@string/u5_uyg6" />
+                        android:text="@string/u7_uyg6" />
 
                     <Button
                         android:id="@+id/btnUyg7"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg7"
-                        android:text="@string/u5_uyg7" />
+                        android:text="@string/u7_uyg7" />
 
                     <Button
                         android:id="@+id/btnUyg8"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg8"
-                        android:text="@string/u5_uyg8" />
+                        android:text="@string/u7_uyg8" />
 
                     <Button
                         android:id="@+id/btnUyg9"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg9"
-                        android:text="@string/u5_uyg9" />
+                        android:text="@string/u7_uyg9" />
 
                     <Button
                         android:id="@+id/btnUyg10"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg10"
-                        android:text="@string/u5_uyg10" />
+                        android:text="@string/u7_uyg10" />
 
                     <Button
                         android:id="@+id/btnUyg11"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg11"
-                        android:text="@string/u5_uyg11" />
+                        android:text="@string/u7_uyg11" />
 
                     <Button
                         android:id="@+id/btnUyg12"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg12"
-                        android:text="@string/u5_uyg12" />
+                        android:text="@string/u7_uyg12" />
 
                     <Button
                         android:id="@+id/btnUyg13"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:onClick="btnUyg13"
-                        android:text="@string/u5_uyg13" />
+                        android:text="@string/u7_uyg13" />
                 </LinearLayout>
             </ScrollView>
         </LinearLayout>

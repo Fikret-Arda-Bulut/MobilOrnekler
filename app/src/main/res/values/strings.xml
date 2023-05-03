@@ -27,6 +27,21 @@
     <string name="u5_uyg13">Uygulama - 13 \n()</string>
     <string name="u5_ss_173">Sıra Sizde 173.Sayfa \n(Metodlarda Aşırı Yükleme)</string>
 
+    <string name="u7_uyg1">Kullanıcı Adı \n()</string>
+    <string name="u7_uyg2">Tema Ayarları \n()</string>
+    <string name="u7_uyg3">Uygulama - 3 \n()</string>
+    <string name="u7_uyg4">Uygulama - 4 \n()</string>
+    <string name="u7_uyg5">Uygulama - 5 \n(Sınıflar)</string>
+    <string name="u7_uyg6">Uygulama - 6 \n()</string>
+    <string name="u7_uyg7">Uygulama - 7 \n()</string>
+    <string name="u7_uyg8">Uygulama - 8 \n()</string>
+    <string name="u7_uyg9">Uygulama - 9 \n()</string>
+    <string name="u7_uyg10">Uygulama - 10 \n()</string>
+    <string name="u7_uyg11">Uygulama - 11 \n()</string>
+    <string name="u7_uyg12">Uygulama - 12 \n()</string>
+    <string name="u7_uyg13">Uygulama - 13 \n()</string>
+
+
     <string name="btnHesapla">Hesapla</string>
 
 </resources>
