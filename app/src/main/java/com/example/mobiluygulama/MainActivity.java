@@ -6,15 +6,29 @@ import androidx.appcompat.app.AppCompatDelegate;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
+    SQLiteDatabase database;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        createDB();
+        //insertUrun();
+        //updateUrun();
+        //deleteUrun();
+        //getAllUrunler
+    }
+    private void createDB(){
+        database = this.openOrCreateDatabase("Urun", MODE_PRIVATE, null);
+
+        String TABLO = "CREATE TABLE IF NOT EXISTS urunler(id INTEGER PRIMARY KEY, urunadi TEXT, fiyat DOUBLE, adet INTEGER)";
+        database.execSQL(TABLO);
     }
 
 
