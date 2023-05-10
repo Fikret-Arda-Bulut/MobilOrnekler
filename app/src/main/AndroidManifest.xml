@@ -125,6 +125,8 @@
         <activity android:name=".unite7.uyg1.Uyg1" android:label="@string/u7_uyg1"></activity>
         <activity android:name=".unite7.uyg2.Uyg2" android:label="@string/u7_uyg2"></activity>
         <activity android:name=".unite7.uyg3.Uyg3" android:label="@string/u5_uyg3"></activity>
+        <activity android:name=".unite7.uyg3.UrunKayit" android:label="@string/u7_uyg3"></activity>
+        <activity android:name=".unite7.uyg3.UrunDetay" android:label="@string/u7_uyg3"></activity>
         <activity android:name=".unite7.uyg4.Uyg4" android:label="@string/u7_uyg4"></activity>
         <activity android:name=".unite7.uyg5.Uyg5" android:label="@string/u7_uyg5"></activity>
         <activity android:name=".unite7.uyg6.Uyg6" android:label="@string/u7_uyg6"></activity>
