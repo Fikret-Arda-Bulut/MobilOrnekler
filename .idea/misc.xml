@@ -13,11 +13,15 @@
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/drawable/butonbackground.xml" value="0.1125" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/drawable/gorselsecim.xml" value="0.2655" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/activity_main2.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/activity_urun_listele.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/activity_uyg9.xml" value="0.3231707317073171" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg1.xml" value="0.29936594202898553" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg10.xml" value="0.25" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg11.xml" value="0.25" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg12.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg13.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg3.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg6.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg7.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u5_uyg8.xml" value="0.33" />
@@ -28,15 +32,24 @@
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg8_birinci.xml" value="0.1" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u6_uyg8_ikinci.xml" value="0.1" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg1.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg10_ayarlar.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg11_urun_ekle.xml" value="0.1" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg2.xml" value="0.25" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg3.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg3_listview_satir.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg4_urun_kayit.xml" value="0.25" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg5_urun_detay.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg9_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg_12_urun_detay.xml" value="0.1" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/u7_uyg_urun_kayit.xml" value="0.16818642350557245" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite1.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite2.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite3.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite5.xml" value="0.33" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite6.xml" value="0.29936594202898553" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite7.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite8.xml" value="0.16869300911854104" />
+        <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/unite9.xml" value="0.16869300911854104" />
         <entry key="..\:/Users/Ogrenci/Documents/MobilOrnekler/app/src/main/res/layout/uyg3_listview_satir.xml" value="0.3458333333333333" />
       </map>
     </option>

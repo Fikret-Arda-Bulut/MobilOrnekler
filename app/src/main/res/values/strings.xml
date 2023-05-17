@@ -43,5 +43,7 @@
 
 
     <string name="btnHesapla">Hesapla</string>
+    <string name="name_app">Ürünler uygulaması</string>
+
 
 </resources>

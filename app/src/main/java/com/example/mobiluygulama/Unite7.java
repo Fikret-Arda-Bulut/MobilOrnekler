@@ -16,7 +16,6 @@ import com.example.mobiluygulama.unite7.uyg5.Uyg5;
 import com.example.mobiluygulama.unite7.uyg6.Uyg6;
 import com.example.mobiluygulama.unite7.uyg7.Uyg7;
 import com.example.mobiluygulama.unite7.uyg8.Uyg8;
-import com.example.mobiluygulama.unite7.uyg9.Uyg9;
 import com.example.mobiluygulama.unite7.uyg10.Uyg10;
 import com.example.mobiluygulama.unite7.uyg11.Uyg11;
 import com.example.mobiluygulama.unite7.uyg12.Uyg12;

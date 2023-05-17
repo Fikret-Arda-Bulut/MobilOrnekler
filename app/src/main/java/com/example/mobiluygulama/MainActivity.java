@@ -3,12 +3,15 @@ package com.example.mobiluygulama;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.mobiluygulama.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     SQLiteDatabase database;
