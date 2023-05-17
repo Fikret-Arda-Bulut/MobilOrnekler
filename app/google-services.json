@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931205990372",
+    "project_id": "urunlerfirebase-d4c82",
+    "storage_bucket": "urunlerfirebase-d4c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931205990372:android:3fb5cc33a398303d6f29f1",
+        "android_client_info": {
+          "package_name": "com.example.mobiluygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931205990372-t3i4f7f7tlorrs17q2nca66ninf901qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGiSxlQ6cg7IC496i4v4g3mFZduGDDbm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931205990372-t3i4f7f7tlorrs17q2nca66ninf901qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
